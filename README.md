@@ -11,6 +11,7 @@ All production coding is done from other GitHub account currently
 - Python
 - Go
 - Javascript
+- Sometimes Rust and C#(.NET Core)
 
 #### Databases
 - PostgreSQL(+Aurora)
@@ -20,3 +21,6 @@ All production coding is done from other GitHub account currently
 #### Tools
 - Docker
 - Kubernetes
+
+### Hobbies
+My hobbies are Muay Thai, powerlifting and writing music 

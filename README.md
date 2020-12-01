@@ -23,4 +23,4 @@ All production coding is done from other GitHub account currently
 - Kubernetes
 
 ### Hobbies
-My hobbies are Muay Thai, powerlifting and writing music 
+My hobbies are Muay Thai, powerlifting, JDM and writing music 

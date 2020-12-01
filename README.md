@@ -21,6 +21,7 @@ All production coding is done from other GitHub account currently
 #### Tools
 - Docker
 - Kubernetes
+- Git/Mercurial
 
 ### Hobbies
 My hobbies are Muay Thai, powerlifting, JDM and writing music 

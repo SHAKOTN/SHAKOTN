@@ -5,6 +5,8 @@ I live in Helsinki, Finland
 
 All production coding is done from other GitHub account currently
 
+My hobbies are Muay Thai, powerlifting, JDM and writing music 
+
 ### Things I code with:
 
 #### Languages
@@ -22,6 +24,3 @@ All production coding is done from other GitHub account currently
 - Docker
 - Kubernetes
 - Git/Mercurial
-
-### Hobbies
-My hobbies are Muay Thai, powerlifting, JDM and writing music 

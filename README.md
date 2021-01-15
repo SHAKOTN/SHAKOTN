@@ -1,4 +1,4 @@
-### Hello! (▀̿Ĺ̯▀̿ ̿)
+### Hello! [■ ͜ʖ■]
 My name is Andrii, currently working as Lead Software Engineer at Holvi.
 
 I live in Helsinki, Finland

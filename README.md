@@ -3,7 +3,7 @@ My name is Andrii, currently working as Lead Software Engineer at Holvi.
 
 I live in Helsinki, Finland
 
-All production coding is done from other GitHub account currently
+**All production coding is done from other GitHub account currently**
 
 My hobbies are Muay Thai, powerlifting, JDM and writing music 
 

@@ -1,7 +1,7 @@
 ### Hello! [■ ͜ʖ■]
 My name is Andrii, currently working as Lead Software Engineer at Holvi.
 
-I live in Helsinki, Finland
+I live in Espoo, Finland
 
 **All production coding is done from other GitHub account currently**
 

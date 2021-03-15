@@ -1,5 +1,5 @@
 ### Hello! [■ ͜ʖ■]
-My name is Andrii, currently working as Lead Software Engineer at Holvi.
+My name is Andrii, currently working as Senior Software Engineer at Ambine.
 
 I live in Espoo, Finland
 

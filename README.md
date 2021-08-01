@@ -12,11 +12,11 @@ My hobbies are Muay Thai, powerlifting, JDM and writing music
 #### Languages
 - Python
 - Go
-- Javascript
+- Javascript/Typescript
 - Sometimes Rust and C#(.NET Core)
 
 #### Databases
-- PostgreSQL(+Aurora)
+- PostgreSQL(+Aurora/CloudSQL)
 - MySQL/MariaDB
 - MongoDB
 
@@ -24,3 +24,4 @@ My hobbies are Muay Thai, powerlifting, JDM and writing music
 - Docker
 - Kubernetes
 - Git/Mercurial
+- GCP

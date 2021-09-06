@@ -1,4 +1,4 @@
-### Hello! [■ ͜ʖ■]
+## Greetings
 My name is Andrii, currently working as Senior Software Engineer at Ambine.
 
 I live in Espoo, Finland
@@ -6,6 +6,8 @@ I live in Espoo, Finland
 **All production coding is done from other GitHub account currently**
 
 My hobbies are Muay Thai, powerlifting, JDM and writing music 
+
+I am also passionate about blockchain and all related technologies
 
 ### Things I code with:
 

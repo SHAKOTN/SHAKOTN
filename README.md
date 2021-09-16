@@ -27,3 +27,4 @@ I am also passionate about blockchain and all related technologies
 - Kubernetes
 - Git/Mercurial
 - GCP
+- Related web3 tech: brownie, ganache, web3.py, ether.js and many others

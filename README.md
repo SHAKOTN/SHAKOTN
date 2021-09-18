@@ -16,6 +16,7 @@ I am also passionate about blockchain and all related technologies
 - Go
 - Javascript/Typescript
 - Sometimes Rust and C#(.NET Core)
+- I also code for blockchains. Mainly for EVM in Solidity
 
 #### Databases
 - PostgreSQL(+Aurora/CloudSQL)

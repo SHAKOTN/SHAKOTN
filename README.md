@@ -7,6 +7,8 @@ My hobbies are Muay Thai, powerlifting, JDM and writing music
 
 I am also passionate about blockchain and different protocols
 
+---
+
 ### Things I code with:
 
 #### Languages

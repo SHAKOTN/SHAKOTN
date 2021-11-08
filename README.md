@@ -1,6 +1,7 @@
 ## Greetings
 My name is Andrii, currently working as Senior Software Engineer at Ambine.
-I am also part time back end dev in Badger DAO
+
+I am also part time back-end developer in Badger DAO
 
 I live in Espoo, Finland
 

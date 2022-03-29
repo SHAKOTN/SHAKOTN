@@ -37,3 +37,6 @@ I am also passionate about blockchain and different protocols
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+
+[![Andrii GitHub stats](https://github-readme-stats.vercel.app/api?username=shakotn&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+

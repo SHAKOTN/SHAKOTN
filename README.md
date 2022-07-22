@@ -1,14 +1,6 @@
 ## Greetings
 
-I live in Espoo, Finland
-
-My hobbies are Muay Thai, powerlifting, JDM and writing music 
-
-I am also passionate about blockchain and different protocols
-
 ## Contact Me:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-kulikov-59517ba1/)
-&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Andrii#2081)
 &nbsp;
 
